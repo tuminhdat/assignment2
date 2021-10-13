@@ -19,20 +19,43 @@
 </head>
 <body>
 
-	<h1>About Omar</h1>
 
-	<p>Lorem Ipsum is simply dummy text of the printing and typesetting
-		industry. Lorem Ipsum has been the industry's standard dummy text ever
-		since the 1500s, when an unknown printer took a galley of type and
-		scrambled it to make a type specimen book. It has survived not only
-		five centuries, but also the leap into electronic typesetting,
-		remaining essentially unchanged. It was popularised in the 1960s with
-		the release of Letraset sheets containing Lorem Ipsum passages, and
-		more recently with desktop publishing software like Aldus PageMaker
-		including versions of Lorem Ipsum.</p>
+	<main class="container">
+		<div class="grid">
+			<div>
+				<img alt="Omar image" src="${mypath}" width="200" hieght="200">
+			</div>
 
-	<img alt="Omar image" src="${mypath}">
-	
+			<div>
+
+
+				<!-- Grid -->
+				<div class="grid">
+					
+						<h1>About Omar</h1>
+
+						<p>Lorem Ipsum is simply dummy text of the printing and
+							typesetting industry. Lorem Ipsum has been the industry's
+							standard dummy text ever since the 1500s, when an unknown printer
+							took a galley of type and scrambled it to make a type specimen
+							book. It has survived not only five centuries, but also the leap
+							into electronic typesetting, remaining essentially unchanged. It
+							was popularised in the 1960s with the release of Letraset sheets
+							containing Lorem Ipsum passages, and more recently with desktop
+							publishing software like Aldus PageMaker including versions of
+							Lorem Ipsum.</p>
+				
+				</div>
+			</div>
+		</div>
+
+	</main>
+
+
+
+
+
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
@@ -42,5 +65,6 @@
 		src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
 		integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
 		crossorigin="anonymous"></script>
+
 </body>
 </html>
