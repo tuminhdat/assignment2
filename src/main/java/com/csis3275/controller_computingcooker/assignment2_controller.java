@@ -17,9 +17,9 @@ public class assignment2_controller {
 		return "aboutdavid";
 	}
 	
-	@PostMapping("/davidinfo/")
-	public String calBikeFee(model_dtu_90 david, ModelMap model) {
+	/*@PostMapping("/davidinfo/")
+	public String calBikeFee(ModelMap model) {
 		//model.addAttribute("path", david.getPath());
 		return "aboutdavid";
-	}
+	}*/
 }
