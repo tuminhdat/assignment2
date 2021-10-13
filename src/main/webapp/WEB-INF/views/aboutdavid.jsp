@@ -19,7 +19,7 @@
 </head>
 <body>
 
-	<h1>Hello, world!</h1>
+	<h1>About David</h1>
 
 	<p>Lorem Ipsum is simply dummy text of the printing and typesetting
 		industry. Lorem Ipsum has been the industry's standard dummy text ever
@@ -31,8 +31,7 @@
 		more recently with desktop publishing software like Aldus PageMaker
 		including versions of Lorem Ipsum.</p>
 
-	
-
+	<img alt="David image" src="${mypath}">
 	
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"

@@ -13,13 +13,12 @@ public class assignment2_controller {
 	
 	@RequestMapping("/")
 	public String firstPage() {
-		
-		return "aboutdavid";
+		return "index";
 	}
 	
-	/*@PostMapping("/davidinfo/")
-	public String calBikeFee(ModelMap model) {
-		//model.addAttribute("path", david.getPath());
+	@RequestMapping("/davidinfo/")
+	public String calBikeFee(model_dtu_90 david, ModelMap model) {
+		model.addAttribute("mypath", david.getPath());
 		return "aboutdavid";
-	}*/
+	}
 }
