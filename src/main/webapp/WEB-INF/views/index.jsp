@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title>About Omar</title>
+<title>Home Page</title>
 <!-- Bootstrap -->
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
@@ -19,42 +19,23 @@
 </head>
 <body>
 
-	<form:form method="GET" action="/">
-		<input type="submit" value="Home Page" />
+	<form:form method="GET" action="/Omarinfo/">
+		<img alt="David image" src="/resources/omarPic.jpeg" width=300px
+			height=300px>
+		<input type="submit" value="Read About Omar" />
 	</form:form>
 
+	<form:form method="GET" action="/Davidinfo/">
+		<img alt="David image" src="/resources/davidpic.jpg" width=300px
+			height=300px>
+		<input type="submit" value="Read About David" />
+	</form:form>
 
-	<main class="container">
-		<div class="grid">
-			<div>
-				<img alt="Omar image" src="${mypath}" width="200" hieght="200">
-			</div>
-
-			<div>
-
-
-				<!-- Grid -->
-				<div class="grid">
-
-					<h1>About Omar</h1>
-
-					<p>Hi my name is Omar Al-khazraji Im in the last semester in my
-						program and I wish I will graduat soon, if I will pass the 3275
-						course in addition to that, I'm very technical IT field has
-						terrific troubleshooting and good interpersonal skills assisting
-						customers with computer issues. In addition to that, advanced
-						expertise in C# and Java programming.</p>
-
-				</div>
-			</div>
-		</div>
-
-	</main>
-
-
-
-
-
+	<form:form method="GET" action="/Marcoinfo/">
+		<img alt="David image" src="/resources/triducPic.jpg" width=300px
+			height=300px>
+		<input type="submit" value="Read About Tri Duc Tran" />
+	</form:form>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
@@ -65,6 +46,5 @@
 		src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"
 		integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
 		crossorigin="anonymous"></script>
-
 </body>
 </html>

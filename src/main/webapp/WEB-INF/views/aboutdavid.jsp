@@ -19,6 +19,10 @@
 </head>
 <body>
 
+	<form:form method="GET" action="/">
+		<input type="submit" value="Home Page" />
+	</form:form>
+
 	<h1>About David</h1>
 
 	<p>Allow me to thank you all to read about myself, let's me

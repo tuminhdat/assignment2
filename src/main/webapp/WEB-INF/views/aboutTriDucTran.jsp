@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title>About David</title>
+<title>About Tri Duc Tran</title>
 <!-- Bootstrap -->
 <link rel="stylesheet"
 	href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
@@ -18,6 +18,10 @@
 	crossorigin="anonymous">
 </head>
 <body>
+
+	<form:form method="GET" action="/">
+		<input type="submit" value="Home Page" />
+	</form:form>
 
 	<h1>About Tri Duc Tran</h1>
 
@@ -31,9 +35,9 @@
 		more recently with desktop publishing software like Aldus PageMaker
 		including versions of Lorem Ipsum.</p>
 
-	
+
 	<img alt="Tri Duc Tran image" src="${mypath}">
-	
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
