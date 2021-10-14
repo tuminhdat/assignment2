@@ -34,12 +34,10 @@
 					
 						<h1>About Omar</h1>
 
-						<p>Hi my name is Omar Al-khazraji im in the last semester in my program and I wish I will graduated soon, if I will pass the 3275 course in addition to that,
+						<p>Hi my name is Omar Al-khazraji Im in the last semester in my program and I wish I will graduat soon, if I will pass the 3275 course in addition to that,
 							I'm very technical IT field has terrific troubleshooting and good interpersonal skills assisting customers with computer issues. In addition to that, 
 							advanced expertise in C# and Java programming.
-						
-						
-						
+
 						
 						 </p>
 				

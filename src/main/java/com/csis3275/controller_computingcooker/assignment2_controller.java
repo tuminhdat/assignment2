@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import model_computingcooker.model_oal_06;
+import com.csis3275.model_computingcooker.model_oal_06;
 
 @Controller	
 public class assignment2_controller {
@@ -13,7 +13,7 @@ public class assignment2_controller {
 		return "index";
 	}
 	
-	@RequestMapping("/davidinfo/")
+	@RequestMapping("/Omarinfo/")
 	public String format(model_oal_06 omar, ModelMap model) {
 		model.addAttribute("mypath", omar.getPath());
 		return "aboutOmar";
