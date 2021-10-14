@@ -34,16 +34,14 @@
 					
 						<h1>About Omar</h1>
 
-						<p>Lorem Ipsum is simply dummy text of the printing and
-							typesetting industry. Lorem Ipsum has been the industry's
-							standard dummy text ever since the 1500s, when an unknown printer
-							took a galley of type and scrambled it to make a type specimen
-							book. It has survived not only five centuries, but also the leap
-							into electronic typesetting, remaining essentially unchanged. It
-							was popularised in the 1960s with the release of Letraset sheets
-							containing Lorem Ipsum passages, and more recently with desktop
-							publishing software like Aldus PageMaker including versions of
-							Lorem Ipsum.</p>
+						<p>Hi my name is Omar Al-khazraji im in the last semester in my program and I wish I will graduated soon, if I will pass the 3275 course in addition to that,
+							I'm very technical IT field has terrific troubleshooting and good interpersonal skills assisting customers with computer issues. In addition to that, 
+							advanced expertise in C# and Java programming.
+						
+						
+						
+						
+						 </p>
 				
 				</div>
 			</div>
