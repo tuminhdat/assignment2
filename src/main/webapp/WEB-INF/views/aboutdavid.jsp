@@ -21,18 +21,20 @@
 
 	<h1>About David</h1>
 
-	<p>Lorem Ipsum is simply dummy text of the printing and typesetting
-		industry. Lorem Ipsum has been the industry's standard dummy text ever
-		since the 1500s, when an unknown printer took a galley of type and
-		scrambled it to make a type specimen book. It has survived not only
-		five centuries, but also the leap into electronic typesetting,
-		remaining essentially unchanged. It was popularised in the 1960s with
-		the release of Letraset sheets containing Lorem Ipsum passages, and
-		more recently with desktop publishing software like Aldus PageMaker
-		including versions of Lorem Ipsum.</p>
+	<p>Allow me to thank you all to read about myself, let's me
+		introduce myself My name is Dat Tu, but you call me David, and I am 26
+		years old. I am currently a student at Douglas College with a major in
+		Emerging Technology. When I was in school, I often learned a lot from
+		working in groups to working alone. I used to have many different
+		issues because of new technology, new languages. I faced much
+		different pressure about giving up but in the end, I told my self
+		"Never give up". In the end, I learned many things. As I know many
+		things, I am able to adapt to many positions when working in a team.
+		Because I used to be indifferent roles like team leader, developer,
+		debugger, I can understand the pressure and get over it.</p>
 
 	<img alt="David image" src="${mypath}">
-	
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"
 		integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
